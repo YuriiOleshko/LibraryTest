@@ -1,0 +1,11 @@
+{
+  "name": "lib-test",
+  "version": "0.0.1",
+  "description": "It is tested make kib",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "YuriiOleshko",
+  "license": "ISC"
+}
